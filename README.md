@@ -11,9 +11,9 @@
 - **Recomendación:** Se sugiere leer la consigna completa antes de comenzar con el desarrollo para tener una visión general del proyecto y planificar adecuadamente el trabajo.
 
 ## Identificación del Alumno
-- **Nombre:** [Juan Manuel]
-- **Apellido:** [Aidar]
-- **Legajo:** [62005]
+- **Nombre:** Juan Manuel
+- **Apellido:** Aidar
+- **Legajo:** 62005
 
 ## Importante
 - La rama `main` está protegida y no se pueden hacer commits directos sobre ella
